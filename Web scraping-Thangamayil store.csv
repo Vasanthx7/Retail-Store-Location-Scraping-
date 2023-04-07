@@ -1,0 +1,55 @@
+gmaps_id,store_name,address,identifier,store_description,latitude,longitude,zoom_level,creation_time,update_time,is_active
+56,Erode,"10, RKV Rd, Erode, Tamil Nadu 638001, 89258 07971",,Erode,11.342241,77.728516,15,2022-12-15 10:25:28,2022-12-15 10:25:28,1
+55,Trichy,"46/1, Chinna Kadai St, Singarathope, Theradi Bazar, Devathanam, Tiruchirappalli, Tamil Nadu 620002, 8220752221",,Trichy,10.8262368,78.6974841,15,2022-11-18 13:04:26,2022-11-26 11:15:37,1
+54,Pudukkottai,"3085, Keezha raja Veedhi, Pudukkottai Tamil Nadu 622001, 8220960111",,Pudukkottai,10.3831254,"78.8220446,21z",15,2022-11-18 13:03:43,2022-11-26 11:18:44,1
+53,Kalavasal,"114/1, Theni Main Road, Kalavasal Tamil Nadu 625016, 8220824111",,Kalavasal,9.9315064,78.0939832,15,2022-11-18 13:02:48,2022-11-26 11:18:44,1
+52,Surandai,"9(2), AG Church opposite, Near Anna Statue,Surandai Tamil Nadu 627859, 9585810155",,Surandai,8.9768966,77.4219458,15,2022-11-18 13:01:48,2022-11-26 11:18:44,1
+51,Nagercoil,"63/1, Police Station Road, Meenakshipuram Vadiveeswaram Village, Ozhuginasery, Nagercoil, Tamil Nadu 629001, 9150071425",,Nagercoil,8.1843842,77.4355941,15,2022-11-18 13:01:16,2022-11-26 11:18:44,1
+50,Keelakarai,"6/1-1, West Street, Post Office Road, Opp State Bank Keelakarai: 623517, 9585595576",,Keelakarai,9.2322161,78.7850376,15,2022-11-18 13:00:42,2022-11-26 11:18:44,1
+49,Bodi,"129, Kamarajar Bazaar, Near Suganyas department store, Thiruvalluvar Statue,Bodi: 625513, 9585595546",,Bodi,10.0117765,77.3512495,15,2022-11-18 12:57:19,2022-11-26 11:18:44,1
+48,Kayalpattinam,"42/33, Aaram Palli vassal street, Opp Jasmine Paradise,Kayalpattinam: 628204, 9585588551",,Kayalpattinam,8.5635722,78.1241818,15,2022-11-18 12:55:58,2022-11-26 11:18:44,1
+47,Ilayankudi,"Sri Valmel nadantha amman koil st, near bus stand,Ilayankudi: 630702, 9585515582",,Ilayankudi,9.6287913,78.6277475,15,2022-11-18 12:55:21,2022-11-26 11:18:44,1
+46,Manamadurai,"33, Pookara Street, Melakarai, Near Canara Bank Manamadurai: 630606, 9585545573",,Manamadurai,9.6904714,78.4519369,15,2022-11-18 12:54:48,2022-11-26 11:18:44,1
+45,Periyakulam,"52, Thandu palayam main road, Opp Jeyaraj JCB ITI Periyakulam: 625601, 9585535547",,Periyakulam,10.1208634,77.5473112,15,2022-11-18 12:54:08,2022-11-26 11:18:44,1
+44,Vedachandur,"274, Athumedu, Opp State Bank,Vedachandur:624710, 9585505512",,Vedachandur,10.5338903,77.9455837,15,2022-11-18 12:53:01,2022-11-26 11:18:44,1
+43,Natham,"48/1, Kottampatti road, Opp Bus stand Natham: 624401, 9585555149",,Natham,10.2261224,78.2291003,15,2022-11-18 12:51:43,2022-11-26 11:18:44,1
+42,Vadipatti,"290, Vadipatti Main Road, Near Aruna Bakery,Vadipatti:625205, 9655655203",,Vadipatti,10.0838576,77.9644029,15,2022-11-18 12:51:02,2022-11-26 11:18:44,1
+41,Sattur,"285/1, Old Trunk Road, Near old Govt. Hospital,Sattur: 626203, 9585505553",,Sattur,9.3537188,77.9203068,15,2022-11-18 12:50:07,2022-11-26 11:18:44,1
+40,Devakottai,"504/209, Thirupathur Road,Devakottai: 630302, 9585539551",,Devakottai,9.9494777,78.8188197,15,2022-11-18 12:49:19,2022-11-26 11:18:44,1
+39,Usilampatti,"176 A, Peraiyur Road,Usilampatti: 625532, 9585515511",,Usilampatti,9.9605041,77.788765,15,2022-11-18 12:47:20,2022-11-26 11:18:44,1
+38,Pollachi,"40,MKG COMPLEX,NEWSCHEME ROAD,NEAR GANDHI STATUE, Pollachi, Tamilnadu - 642001, 9585515569",,Pollachi,10.6617073,77.0082466,15,2021-12-20 09:48:31,2022-11-26 11:18:44,1
+37,Thisyanvilai,"NO 198 B VSR  GRAND MALL HIGHWAYS ROAD THISAYANVILAI, Thisyanvilai, Tamilnadu - 627657, 9585595597",,Thisyanvilai,8.3350572,77.8677356,15,2021-12-20 09:47:14,2022-11-26 11:18:44,1
+36,Batlagundu,"17-1-291, KSAS Complex, Nearby Bus Stand, Main Road, Batlagundu, Tamilnadu - 624202, 9585505509",,Batlagundu,10.163063,77.75591499999996,15,2021-12-20 09:44:50,2022-11-26 11:18:44,1
+35,Tirupuvanam,"13, Railway feeder road, Chinna pallivasal back side, Virudhunagar, Tamil Nadu - 626001, 9791887872",,Tirupuvanam,9.8243429,78.2586882,15,2021-12-20 09:43:19,2022-11-26 11:18:44,1
+34,Virudhunagar,"13, Railway feeder road, Chinna pallivasal back side, Virudhunagar, Tamil Nadu - 626001, 9791887872",,Virudhunagar,9.5898608,77.96244350000006,15,2021-12-20 09:41:58,2022-11-26 11:18:44,1
+33,Corporate office,"25/6 Palami Center (2nd & 3rd Floor),(Near Ramakrishna Mutt)New Natham Road,Narayanapuram,",,Corporate office,9.9960246,78.13933969999994,15,2021-12-20 09:37:52,2022-11-26 11:18:44,1
+32,Villupuram,"23, Nehruji Road, Near Veera Valiamman Kovil, Villupuram, Tamil Nadu - 605602, 9585590556",,Villupuram,11.94143,79.4934884,15,2021-12-20 09:36:34,2022-11-26 11:18:44,1
+31,Eral,"3/6, Bharathiyar Road, Eral, Tamil Nadu - 628801, 9655248557",,Eral,8.6255674,78.02096389999997,15,2021-12-20 09:29:24,2022-11-26 11:18:44,1
+30,Sankarankovil,"8, South Car Street, Sankarankovil, Tamil Nadu - 627754, 9655247554",,Sankarankovil,9.1716119,77.5334441,15,2021-12-20 09:18:31,2022-11-26 11:18:44,1
+29,Gobichettipalayam,"227, Cutcherry Street, Sakthigobi Main Road, Gobichettipalayam, Tamil Nadu - 638452, 9655795582",,Gobichettipalayam,11.4547685,77.4236879,15,2021-12-20 09:05:39,2022-11-26 11:18:44,1
+28,Sivagangai,"4/292, Nehru Bazzar, Sivagangai, Tamil Nadu - 630561, 9585547467",,Sivagangai,9.8440517,78.48557210000001,15,2021-12-20 07:57:30,2022-11-26 11:18:44,1
+27,Tiruppur,"109 /110, Kumaran Road, Maniyam Hotel Opposite, Tiruppur, Tamil Nadu - 640601, 9655925578",,Tiruppur,11.103884 ,77.345575,15,2021-12-20 07:54:38,2022-11-26 11:18:44,1
+26,Udumalaipettai,"11 Palani Main Road, Anusham Theatre Complex, Bus Stand Opposite, Udumalaipettail, Tamil Nadu - 642126, 9655645524",,Udumalaipettai,10.5845698,77.25144560000001,15,2021-12-20 07:52:23,2022-11-26 11:18:44,1
+25,Kovilpatti,"406, Near Old Bus Stand, Tirunelvelli Road, Kovilpatti, Tamil Nadu - 628501, 9655655491",,Kovilpatti,9.1743461,77.86570929999993,15,2021-12-20 07:48:42,2022-11-26 11:18:44,1
+24,Tirunelveli,"10 - F, Thiruvandram Road,<br>Vannarapettai, Tirunelveli, Tamil Nadu - 627003, 9655155377",,Tirunelveli,8.7277594,77.7184052,15,2021-12-20 07:45:11,2022-11-26 11:18:44,1
+23,Ottanchathiram,"301, Tharapuram Road, K.Kamatchipillai Complex, Ottanchathiram, Tamil Nadu - 624619, 9655695512",,Ottanchathiram,10.4826824,77.75665230000004,15,2021-12-20 07:41:24,2022-11-26 11:18:44,1
+22,Dharmapuri,"86, Adhiyamaan bye pass road, 4 Road, Adhiyamaan Palace opposite, Dharmapuri, Tamil Nadu - 636702, 9585547461",,Dharmapuri,12.135865,78.1645332,15,2021-12-20 07:37:26,2022-11-26 11:18:44,1
+21,Valliyoor,"274, Main Road,  Market Near, Valliyoor, Tamil Nadu - 627117, 9585505561",,Valliyoor,8.3865917,77.6070487,15,2021-12-20 07:23:14,2022-11-26 11:18:44,1
+20,Dharapuram,"4/146, Sri Vinayaga Complex, Pollachi Road, Dharapuram, Tamil Nadu - 638656, 9585557355",,Dharapuram,10.7382853,77.52159129999995,15,2021-12-20 07:20:59,2022-11-26 11:18:44,1
+18,Aruppukottai,"102,103, Thiruchuli Road, Kasukadai Bazaar, Aruppukottai, Tamil Nadu - 626101, 9047055608",,Aruppukottai,9.512884099999999,78.10512459999995,15,2021-12-20 07:15:16,2022-11-26 11:18:44,1
+17,Cumbum,"196, L.F. Road, North Police Station Near, Cumbum, Tamil Nadu - 625516, 9585505524",,Cumbum,9.7422131,77.2868134,15,2021-12-20 07:13:38,2022-11-26 11:18:44,1
+16,Annanagar - Madurai,"330,  80,  Feet Road, Annanagar, Madurai, Tamil Nadu - 625020, 9655805517",,Annanagar - Madurai,9.921835300000001,78.14940509999997,15,2021-12-20 07:10:24,2022-11-26 11:18:44,1
+15,Dindigul,"1-A, Salai Road State Bank Opposite, Dindigul, Tamil Nadu - 624001, 9585547445",,Dindigul,10.3639286,77.9681544,15,2021-12-20 07:08:07,2022-11-26 11:18:44,1
+14,Tuticorin,"351, W.G.C Road, Daily Thanthi Office Opposite, Tuticorin, Tamil Nadu - 628001, 9585505529",,Tuticorin,8.8106326,78.15929349999999,15,2021-12-20 07:05:44,2022-11-26 11:18:44,1
+13,Palani,"4, Sri Ram Complex, Dindigul Road, (Opp to bus stand), Palani, Tamil Nadu - 624601, 9655545576",,Palani,10.4489188,77.52093919999993,15,2021-12-20 06:47:22,2022-11-26 11:18:44,1
+12,Tenkasi,"244, 246, Railway Feeder Road, Sengottai Road, Tenkasi, Tamil Nadu - 627811, 9655895569",,Tenkasi,8.9662937,77.30659519999995,15,2021-12-20 06:39:06,2022-11-26 11:18:44,1
+11,Sivakasi,"144 - A, N.R.K.R Road, Sivakasi, Tamil Nadu - 626123, 9585575536",,Sivakasi,9.4491622,77.79732289999993,15,2021-12-20 06:36:55,2022-11-26 11:18:44,1
+10,Theni,"745A, Gandhiji Rd, Suppan Ragavan Colony, NRT Nagar, Tamil Nadu 625531, 9626252127",,Theni,10.0103658,77.47681149999994,15,2021-12-20 06:34:23,2022-11-26 11:18:44,1
+9,Ramanathapuram,"262, Salai Street, Ramanathapuram, Tamil Nadu - 623501, 9566672444",,Ramanathapuram,9.330477199999999,78.88946950000002,15,2021-12-20 06:31:54,2022-11-26 11:18:44,1
+8,Karaikudi,"333-A, Sekkalai Road, Karaikudi, Tamil Nadu - 630001, 9655685528",,Karaikudi,10.0722154,78.77135810000004,15,2021-12-20 06:02:23,2022-11-26 11:18:44,1
+7,Krishnagiri,"209 - B, Bangalore Road,(Opp To Taluk Office), Krishnagiri, Tamil Nadu - 635001, 9655805516",,Krishnagiri,12.5241499,78.2163682,15,2021-12-20 05:40:40,2022-11-26 11:18:44,1
+6,Salem,"62, 66, Bazar Street, Old Salem Cafe, Near KottaiMariamman Kovil, Salem, Tamil Nadu - 636001, 9655535586",,Salem,11.6560493,78.16641890000005,15,2021-11-08 12:47:57,2022-11-26 11:18:44,1
+5,Coimbatore,"396, Oppanakara Street, Coimbatore, amil Nadu - 641001, 9585547455",,Coimbatore,10.9937742,76.95965419999993,15,2021-11-08 12:47:09,2022-11-26 11:18:44,1
+4,Namakkal,"138/1, L.M.R Complex, Salem Main Road, Namakkal, Tamil Nadu - 637001, 9585511573",,Namakkal,11.6269589,78.1476778,15,2021-11-08 12:46:28,2022-11-26 11:18:44,1
+3,Rajapalayam,"367, Thenkasi Road, South Police Station Near, Rajapalayam, Tamil Nadu - 626117, 9585515560",,Rajapalayam,9.4504562,77.5545751,15,2021-11-08 12:45:25,2022-11-26 11:18:44,1
+2,Madurai,"124, Nethaji Road, Madurai, Tamil Nadu - 625001, 0452 - 2345553",,Madurai,9.916634799999999,78.11339520000001,15,2021-11-08 12:44:36,2022-11-26 11:18:29,1
